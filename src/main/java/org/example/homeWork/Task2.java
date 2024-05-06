@@ -14,11 +14,11 @@ public class Task2 {
         driver.get("https://synatxprojects.com/input-form-locator.php");
 
         WebElement firstname = driver.findElement(By.name("first_name"));
-        firstname.sendKeys("Sheila");
+        firstname.sendKeys("She");
         WebElement lastname = driver.findElement(By.name("last_name"));
-        lastname.sendKeys("Novales");
+        lastname.sendKeys("Nov");
         WebElement email = driver.findElement(By.name("email"));
-        email.sendKeys("gamersthumb721@gmail.com");
+        email.sendKeys("fairytales@gmail.com");
 
         WebElement submit = driver.findElement(By.id("submit_button"));
         submit.click();
