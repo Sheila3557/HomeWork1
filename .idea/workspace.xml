@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="590ea291-fe90-40ae-82db-9d304f7a765d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homeWork3/checkBoxDemo.java" afterDir="false" />
+    <list default="true" id="590ea291-fe90-40ae-82db-9d304f7a765d" name="Changes" comment="HW#3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Screenshot (412).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homeWork3/checkBoxes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/homeWork/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/homeWork/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/homeWork2/advancePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/homeWork2/advancePath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/homeWork2/cSS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/homeWork2/cSS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/homeWork2/xPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/homeWork2/xPath.java" afterDir="false" />
@@ -44,7 +45,7 @@
     "Application.xPath.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "advanced.settings"
   }
@@ -128,5 +129,9 @@
       <updated>1714760617878</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HW#3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW#3" />
   </component>
 </project>
